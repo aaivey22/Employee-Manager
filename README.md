@@ -1,10 +1,8 @@
-# Employee-Manager
-Dynamic employee management app
 
 ## <img src="https://avatars1.githubusercontent.com/u/58960456?v=4" alt="avatar" style="border-radius: 50px" width="75" />  aaivey22
 
 # <h1 align="center"> EMPLOYEE-MANAGER </h1>
-<h3 align="center"> The Employee-Manager is a dynamic application that easily and quickly generates a README.md file for developers. When invoked the application will prompt the developer with a series of questions regarding their current project and in turn use that information to generate a beautifully crafted README.md! </h3>
+<h3 align="center"> Dynamic employee management app </h3>
 
 ---
 
