@@ -1,0 +1,25 @@
+{
+  "name": "Employee-Manager",
+  "version": "1.0.0",
+  "description": "# <h1 align=\"center\"> EMPLOYEE-MANAGER </h1> <h3 align=\"center\"> Dynamic employee management app </h3>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaivey22/Employee-Manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaivey22/Employee-Manager/issues"
+  },
+  "homepage": "https://github.com/aaivey22/Employee-Manager#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1"
+  }
+}
